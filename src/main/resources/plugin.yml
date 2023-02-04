@@ -1,0 +1,9 @@
+name: AvalonCore
+version: '${project.version}'
+main: com.avalonawakened.AvalonCore
+api-version: 1.19
+prefix: [ AvalonCore ]
+load: STARTUP
+authors: [ MicahDonegan, MicahLawson ]
+description: Changing the fundemental mechanics of minecraft
+website: avalonawakened.com

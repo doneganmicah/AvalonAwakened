@@ -7,3 +7,7 @@ load: STARTUP
 authors: [ MicahDonegan, MicahLawson ]
 description: Changing the fundemental mechanics of minecraft
 website: avalonawakened.com
+commands:
+  example:
+    description: an example command
+    usage: /<command>
